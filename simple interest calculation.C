@@ -1,5 +1,5 @@
 // INTEREST CALCULATION
-#include <stSIMPLE dio.h>
+#include <stdio.h>
 
 float calculate_simple_interest(float principal, float rate, float time) {
     float interest = (principal * rate * time) / 100;
