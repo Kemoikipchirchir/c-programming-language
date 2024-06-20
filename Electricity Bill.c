@@ -1,5 +1,5 @@
 Author =Edwin kipchirchir
-Date =19/05/2024
+Date =19/06/2024
 Description=A program to calculate electricity bills
 // aprogram to display electricity bills
 #include <stdio.h>
