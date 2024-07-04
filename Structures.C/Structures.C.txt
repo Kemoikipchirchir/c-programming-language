@@ -1,5 +1,5 @@
 c stuctures
-author =Edwin kipchirchir.
+author =Edwin kipchirchir
 AdmNo=BSE-01-00072024
 Date=04072024
 description=c structures
