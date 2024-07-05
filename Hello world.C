@@ -4,7 +4,6 @@ Date =25/05/2024
 #include <stdio.h>
 
 int main() {
-    // Write C code here
     printf("hello world");
 
     return 0;

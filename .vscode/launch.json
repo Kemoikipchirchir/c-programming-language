@@ -2,6 +2,7 @@
   "version": "0.2.0",
   "configurations": [
     {
+<<<<<<< HEAD
       "name": "(gdb) Attach",
       "type": "cppdbg",
       "request": "attach",
@@ -50,14 +51,21 @@
       "configureAll": false
     },
     {
+=======
+>>>>>>> 8295c24d7b8e3bcf45396dca0f522581a89c5fa8
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
+<<<<<<< HEAD
       "cwd": "extension-output-ms-vscode.cpptools-#2-C",
       "program": "extension-output-ms-vscode.cpptools-#2-C/build/Debug/outDebug",
+=======
+      "cwd": "c:/Users/pc/OneDrive/Desktop/c prgramming language/c-programming-language",
+      "program": "c:/Users/pc/OneDrive/Desktop/c prgramming language/c-programming-language/build/Debug/outDebug",
+>>>>>>> 8295c24d7b8e3bcf45396dca0f522581a89c5fa8
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
